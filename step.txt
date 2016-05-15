@@ -15,4 +15,9 @@
 15. git log --graph --oneline
 16. git reset --hard e0beeb4
 17. git status
-18. history | tail -20 
+18. history | tail -20
+19. git branch
+20. git branch dev
+21. git branch
+22. git checkout dev
+ 
