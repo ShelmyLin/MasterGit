@@ -1,3 +1,18 @@
-1. git init
-2. git remote add origin https://github.com/ShelmyLin/MasterGit.git
-3. git pull origin master
+1.  git init
+2.  git remote add origin https://github.com/ShelmyLin/MasterGit.git
+3.  git pull origin master
+4.  vi step.txt
+5.  git add
+6.  git add step.txt 
+7.  git commit -m "add a step.txt and write step 1 to 3"
+8.  git log --graph --oneline
+9.  git push origin master
+10. rm step.txt 
+11. git status
+12. git rm step.txt
+13. git status
+14. git commit -m "delete step.txt"
+15. git log --graph --oneline
+16. git reset --hard e0beeb4
+17. git status
+18. history | tail -20 
