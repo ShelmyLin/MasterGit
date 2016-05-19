@@ -2,4 +2,4 @@
 2. vi feature_01.txt
 3. git add feature_01.txt
 4. git commit -m "feature_01"
-
+5. git log --graph --oneline
