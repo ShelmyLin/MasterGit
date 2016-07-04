@@ -1,0 +1,5 @@
+git rebase -i HEAD~2
+看看rebase过头，到底会多修改几个commit的时间更新信息01
+看看rebase过头，到底会多修改几个commit的时间更新信息02
+看看rebase过头，到底会多修改几个commit的时间更新信息03
+
