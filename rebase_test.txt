@@ -1,0 +1,1 @@
+不过这样不是特别严谨，因为这时候本地的master是最新的。我再补一个本地master不是最新，然后test分支下git rebase origin/master 的实验。
