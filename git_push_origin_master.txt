@@ -1,0 +1,7 @@
+i want to know: if
+
+git push origin master
+
+means:
+
+checkout to master, and push it to origin.
